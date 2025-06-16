@@ -57,7 +57,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Staff Full Stack Engineer, Platform Services](https://job-boards.greenhouse.io/calendly/jobs/8013433002)** — _n/a_ _(posted 2025-05-28)_
 * **[Staff Full Stack Engineer (Backend Focused)](https://boards.greenhouse.io/calendly/jobs/7970684002)** — _n/a_ _(posted 2025-04-24)_
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
-* **[Senior Full Stack Engineer, IAM](https://boards.greenhouse.io/calendly/jobs/7881864002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrerphrfzimfknvp5loj.webp" width="24" height="24" alt="Certik logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Certik](https://jobo.world/company/Certik)
 
@@ -129,6 +128,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jy37ytidfhwof6jnycfb.webp" width="24" height="24" alt="Fullscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fullscript](https://jobo.world/company/FullScript)
 
 * **[Senior DevOps Engineer](https://jobs.lever.co/fullscript/055fa478-3eb6-4712-b97a-03df065398ad)** — _n/a_ _(posted 2025-04-22)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/agaosbyl4oj9nni4qbnz.webp" width="24" height="24" alt="FullStory logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FullStory](https://jobo.world/company/FullStory)
+
+* **[Software Engineer, Fullstack- Data Management](https://jobs.ashbyhq.com/fullstory/7d2bf583-a1b1-4c2e-873f-ad8ee7663425)** — _n/a_ _(posted 2025-06-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
@@ -332,4 +335,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Software Engineer, CI/CD](https://job-boards.greenhouse.io/vercel/jobs/5532019004)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-06-14_
+_Updated automatically — 2025-06-16_
