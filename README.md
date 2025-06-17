@@ -39,10 +39,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior Software Engineer - Full Stack](https://jobs.ashbyhq.com/amper/0764e220-9af6-402f-8ebf-ce6ffdd296bf)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
-
-* **[Engineer Who Can Design - Americas](https://jobs.ashbyhq.com/ashby/145ff46b-1441-4773-bcd3-c8c90baa598a)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dncml0pjrfuppesov22t.webp" width="24" height="24" alt="Bitcoin Depot logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bitcoin Depot](https://jobo.world/company/Bitcoin-Depot)
 
 * **[Senior Software Engineer - Full Stack](https://job-boards.greenhouse.io/bitcoindepot/jobs/6319599003)** — _n/a_ _(posted 2025-04-26)_
@@ -319,6 +315,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5548914004)** — _n/a_ _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w6zwntsobvido10onndn.webp" width="24" height="24" alt="User Interviews logo" style="vertical-align:middle"/>&nbsp;&nbsp;[User Interviews](https://jobo.world/company/User-Interviews)
+
+* **[Senior Software Engineer](https://boards.greenhouse.io/userinterviews/jobs/5531183004)** — _n/a_ _(posted 2025-05-02)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vjvpsj9g0dgi0bdeodhd.webp" width="24" height="24" alt="Vannevar Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vannevar Labs](https://jobo.world/company/VannevarLabs)
 
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/vannevarlabs/jobs/4538771007)** — ¤135,000 – ¤205,000 USD _(posted 2025-03-14)_
@@ -335,4 +335,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Software Engineer, CI/CD](https://job-boards.greenhouse.io/vercel/jobs/5532019004)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-06-16_
+_Updated automatically — 2025-06-17_
