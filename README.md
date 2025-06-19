@@ -39,6 +39,14 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior Software Engineer - Full Stack](https://jobs.ashbyhq.com/amper/0764e220-9af6-402f-8ebf-ce6ffdd296bf)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccrorvk5avxtpdxi77lc.webp" width="24" height="24" alt="Apollo.io logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Apollo.io](https://jobo.world/company/Apollo-io)
+
+* **[Senior Frontend Engineer](https://job-boards.greenhouse.io/apolloio/jobs/5394326004)** — _n/a_ _(posted 2025-05-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
+
+* **[Software Engineer - Forecasting & Scheduling](https://jobs.ashbyhq.com/assembledhq/e95be58c-ac92-4b2c-9812-cecdbdecee55)** — ¤150,000 – ¤300,000 USD _(posted 2025-03-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dncml0pjrfuppesov22t.webp" width="24" height="24" alt="Bitcoin Depot logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bitcoin Depot](https://jobo.world/company/Bitcoin-Depot)
 
 * **[Senior Software Engineer - Full Stack](https://job-boards.greenhouse.io/bitcoindepot/jobs/6319599003)** — _n/a_ _(posted 2025-04-26)_
@@ -50,6 +58,7 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Senior Full Stack Engineer, Growth](https://job-boards.greenhouse.io/calendly/jobs/8028636002)** — _n/a_ _(posted 2025-06-11)_
+* **[Senior Full Stack Engineer, Monetization](https://job-boards.greenhouse.io/calendly/jobs/8025134002)** — _n/a_ _(posted 2025-06-06)_
 * **[Staff Full Stack Engineer, Platform Services](https://job-boards.greenhouse.io/calendly/jobs/8013433002)** — _n/a_ _(posted 2025-05-28)_
 * **[Staff Full Stack Engineer (Backend Focused)](https://boards.greenhouse.io/calendly/jobs/7970684002)** — _n/a_ _(posted 2025-04-24)_
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
@@ -70,10 +79,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
 * **[Senior Software Engineer, Fullstack (Institutional - Markets)](https://boards.greenhouse.io/cbreferral/jobs/6616125)** — _n/a_ _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/koutrdeq6maedapdozvn.webp" width="24" height="24" alt="Credit Key logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Credit Key](https://jobo.world/company/CreditKey)
-
-* **[Full Stack Developer](https://apply.workable.com/credit-key/j/0A66E28424/)** — _n/a_ _(posted 2025-01-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlloutuggdwvprolzosi.webp" width="24" height="24" alt="Dataminr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataminr](https://jobo.world/company/Dataminr)
 
@@ -125,10 +130,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior DevOps Engineer](https://jobs.lever.co/fullscript/055fa478-3eb6-4712-b97a-03df065398ad)** — _n/a_ _(posted 2025-04-22)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/agaosbyl4oj9nni4qbnz.webp" width="24" height="24" alt="FullStory logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FullStory](https://jobo.world/company/FullStory)
-
-* **[Software Engineer, Fullstack- Data Management](https://jobs.ashbyhq.com/fullstory/7d2bf583-a1b1-4c2e-873f-ad8ee7663425)** — _n/a_ _(posted 2025-06-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
 * **[Senior Software Engineer, Ecosystem](https://job-boards.greenhouse.io/getbuilt/jobs/4547059005)** — _n/a_ _(posted 2025-04-15)_
@@ -144,12 +145,7 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
-* **[Software Engineer, Full Stack](https://job-boards.greenhouse.io/hs/jobs/6923339)** — _n/a_ _(posted 2025-05-29)_
 * **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/hs/jobs/6564414)** — ¤122,400 – ¤195,500 USD _(posted 2025-05-17)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
-
-* **[Senior Software Engineer II](https://job-boards.greenhouse.io/humaninterest/jobs/6822323)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
@@ -163,6 +159,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
 * **[Senior Full Stack Engineer (USA)](https://boards.greenhouse.io/kalepa/jobs/4079938004)** — ¤170,000 – ¤205,000 USD _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
+
+* **[Sr. Full Stack Engineer - Python, React, AWS](https://job-boards.greenhouse.io/kunai/jobs/4766447007)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
 
@@ -335,4 +335,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Software Engineer, CI/CD](https://job-boards.greenhouse.io/vercel/jobs/5532019004)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-06-18_
+_Updated automatically — 2025-06-19_
