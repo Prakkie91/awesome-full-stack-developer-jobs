@@ -66,6 +66,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[FRONT END LEAD SOFTWARE ENGINEER  - STAFF](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/FRONT-END-LEAD-SOFTWARE-ENGINEER----STAFF_JR10489)** — _n/a_ _(posted 2025-06-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
+
+* **[Sr. Software Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Software-Engineer_JR7989-1)** — _n/a_ _(posted 2025-06-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrerphrfzimfknvp5loj.webp" width="24" height="24" alt="Certik logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Certik](https://jobo.world/company/Certik)
 
 * **[Senior Full-Stack Engineer](https://jobs.lever.co/certik/b85b78b6-a186-497b-a3d0-13c1b696a522)** — _n/a_ _(posted 2025-02-10)_
@@ -105,10 +109,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Staff Software Engineer](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4572868005)** — _n/a_ _(posted 2025-06-05)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k92vxngybvwdc18je6xi.webp" width="24" height="24" alt="Dev Technology Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dev Technology Group](https://jobo.world/company/DevTechGrp)
-
-* **[Full Stack Developer (Java/GoLang)](https://job-boards.greenhouse.io/devtechnology/jobs/7983506002)** — _n/a_ _(posted 2025-05-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
 * **[Senior Full-Stack Engineer, Ads](https://job-boards.greenhouse.io/discord/jobs/7967109002)** — _n/a_ _(posted 2025-04-23)_
@@ -133,7 +133,7 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
-* **[Staff Software Development Engineer (Full Stack, Java, Kubernetes, AWS)](https://jobs.smartrecruiters.com/Experian/744000066408505-staff-software-development-engineer-full-stack-java-kubernetes-aws-?oga=true)** — _n/a_ _(posted 2025-06-20)_
+* **[Full Stack Software Engineer - Remote](https://jobs.smartrecruiters.com/Experian/744000068046066-full-stack-software-engineer-remote?oga=true)** — _n/a_ _(posted 2025-06-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
@@ -172,12 +172,17 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior Full Stack Engineer (USA)](https://boards.greenhouse.io/kalepa/jobs/4079938004)** — ¤170,000 – ¤205,000 USD _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qobmp3s3sfxtirbgfvbn.webp" width="24" height="24" alt="Kiddom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kiddom](https://jobo.world/company/Kiddom)
+
+* **[Senior Full Stack Engineer](https://jobs.lever.co/kiddom/467c9490-bbd9-40ba-a2ce-7ea970149fc7)** — _n/a_ _(posted 2025-06-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
 
 * **[Software Engineer, Product Engineering (Senior, Staff+)](https://jobs.ashbyhq.com/kustomer/7f9617a9-e401-4517-8766-802dcc4a66e0)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
 
+* **[Full Stack Engineer, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/6626314003)** — _n/a_ _(posted 2025-07-01)_
 * **[Fullstack Engineer, Mobile Observability](https://job-boards.greenhouse.io/launchdarkly/jobs/6607515003)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nhn9favlu6y5snqj1qck.webp" width="24" height="24" alt="Livefront logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Livefront](https://jobo.world/company/Livefront)
@@ -270,7 +275,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uctpsm9v2ztjf5g3pgnl.webp" width="24" height="24" alt="Rocket Money logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rocket Money](https://jobo.world/company/RocketMoney)
 
 * **[Senior Full Stack Engineer, Ingress](https://job-boards.greenhouse.io/truebill/jobs/6331720003)** — _n/a_ _(posted 2025-05-17)_
-* **[Senior Data Scientist, Full Stack](https://job-boards.greenhouse.io/truebill/jobs/6059342003)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
 
@@ -308,7 +312,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Software Engineer - Infrastructure](https://boards.greenhouse.io/superblocks/jobs/4024364005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 * **[Software Engineer - Enterprise Platform](https://boards.greenhouse.io/superblocks/jobs/4024362005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
-* **[Software Engineer - Frontend Platform](https://boards.greenhouse.io/superblocks/jobs/4024363005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l2atgbjd7w67rocymbfk.webp" width="24" height="24" alt="Tapcart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tapcart](https://jobo.world/company/Tapcart)
 
@@ -341,4 +344,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Software Engineer, CI/CD](https://job-boards.greenhouse.io/vercel/jobs/5532019004)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-07-01_
+_Updated automatically — 2025-07-02_
