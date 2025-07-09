@@ -96,7 +96,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlloutuggdwvprolzosi.webp" width="24" height="24" alt="Dataminr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataminr](https://jobo.world/company/Dataminr)
 
 * **[Software Engineer, Full Stack](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer--Full-Stack_JR1810)** — _n/a_ _(posted 2025-06-12)_
-* **[Software Engineer III, Full Stack (Human AI Innovation Team)](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer-III--Full-Stack--Human-AI-Innovation-Team-_JR1700)** — _n/a_ _(posted 2025-02-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1tseabvwxmu8boiolha.webp" width="24" height="24" alt="dbt Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dbt Labs](https://jobo.world/company/dbtLabs)
 
@@ -150,7 +149,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
-* **[Staff Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/5357b6d1-bc12-4d7b-afda-81c14bd2538f)** — _n/a_ _(posted 2025-03-12)_
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
@@ -184,6 +182,7 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
+* **[Software Engineer, Fullstack](https://job-boards.greenhouse.io/mixpanel/jobs/3920890)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/mixpanel/jobs/3920931)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vuz34tir7i8nhrgxio7i.webp" width="24" height="24" alt="Modern Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Modern Health](https://jobo.world/company/Modern-Health)
@@ -197,10 +196,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcxvyg0udy2sdtvqajhr.webp" width="24" height="24" alt="OneSignal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OneSignal](https://jobo.world/company/OneSignal)
 
 * **[Staff Software Engineer, Fullstack](https://boards.greenhouse.io/onesignal/jobs/4434724006)** — _n/a_ _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u79n2cm9db2wmtsm9025.webp" width="24" height="24" alt="Orb logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Orb](https://jobo.world/company/Orb)
-
-* **[Forward Deployed Engineer](https://jobs.ashbyhq.com/orb/35365d49-cb3c-4fbd-913f-a6e8062f2733)** — ¤142,500 – ¤231,000 USD _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
 
@@ -275,9 +270,11 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
+* **[Manager, Software Engineering Management - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069236118-manager-software-engineering-management-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
+* **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069236125-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
+* **[Senior Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069235296-senior-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
+* **[Senior Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069234635-senior-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
 * **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000068567901-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-03)_
-* **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000068564997-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-03)_
-* **[Manager, Software Engineering Management - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000068501781-manager-software-engineering-management-fullstack?oga=true)** — _n/a_ _(posted 2025-07-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -341,4 +338,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Software Engineer, CI/CD](https://job-boards.greenhouse.io/vercel/jobs/5532019004)** — _n/a_ _(posted 2025-05-06)_
 
 ---
-_Updated automatically — 2025-07-08_
+_Updated automatically — 2025-07-09_
