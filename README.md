@@ -8,11 +8,11 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooxpzdfo1qadnwzpxalm.webp" width="24" height="24" alt="Abbott logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Abbott](https://jobo.world/company/Abbott)
 
-* **[Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Fullstack-Developer_31111681-2)** — _n/a_ _(posted 2025-05-02)_
 * **[Senior Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Full-Stack-Developer_31117010-1)** — _n/a_ _(posted 2025-04-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cnatltnudekb0sa5af4e.webp" width="24" height="24" alt="Addepar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Addepar](https://jobo.world/company/Addepar)
 
+* **[Sr. Fullstack Software Engineer - Partner Platform](https://job-boards.greenhouse.io/addepar1/jobs/8064891002)** — _n/a_ _(posted 2025-07-12)_
 * **[Forward Deployed Engineer](https://job-boards.greenhouse.io/addepar1/jobs/7760230002)** — _n/a_ _(posted 2025-07-10)_
 * **[Full-Stack Software Engineer-Product Engineer](https://job-boards.greenhouse.io/addepar1/jobs/8015737002)** — _n/a_ _(posted 2025-06-05)_
 
@@ -70,17 +70,13 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Sr. Software Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Software-Engineer_JR7989-1)** — _n/a_ _(posted 2025-06-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrerphrfzimfknvp5loj.webp" width="24" height="24" alt="Certik logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Certik](https://jobo.world/company/Certik)
-
-* **[Senior Full-Stack Engineer](https://jobs.lever.co/certik/b85b78b6-a186-497b-a3d0-13c1b696a522)** — _n/a_ _(posted 2025-02-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yamvkbjbwaijbnwtithj.webp" width="24" height="24" alt="ClassDojo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ClassDojo](https://jobo.world/company/ClassDojo)
 
 * **[Senior Full-Stack Engineer - Security](https://job-boards.greenhouse.io/classdojo/jobs/7001663)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
-* **[Full Stack Software Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5584386004)** — _n/a_ _(posted 2025-07-09)_
+* **[Full Stack Software Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5587666004)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
@@ -306,6 +302,7 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Software Engineer - Infrastructure](https://boards.greenhouse.io/superblocks/jobs/4024364005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 * **[Software Engineer - Enterprise Platform](https://boards.greenhouse.io/superblocks/jobs/4024362005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
+* **[Software Engineer - Frontend Platform](https://boards.greenhouse.io/superblocks/jobs/4024363005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l2atgbjd7w67rocymbfk.webp" width="24" height="24" alt="Tapcart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tapcart](https://jobo.world/company/Tapcart)
 
@@ -344,4 +341,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-12_
+_Updated automatically — 2025-07-13_
