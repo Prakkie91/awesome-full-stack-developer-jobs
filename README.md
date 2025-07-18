@@ -152,6 +152,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior Full Stack Engineer](https://jobs.lever.co/kiddom/467c9490-bbd9-40ba-a2ce-7ea970149fc7)** — _n/a_ _(posted 2025-06-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
+
+* **[Fullstack Engineer - Financial Systems](https://jobs.ashbyhq.com/kraken.com/9774c0ec-c573-4adf-81f7-49a6817fd3b7)** — ¤110,000 – ¤176,000 USD _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
 
 * **[Software Engineer, Product Engineering (Senior, Staff+)](https://jobs.ashbyhq.com/kustomer/7f9617a9-e401-4517-8766-802dcc4a66e0)** — _n/a_ _(posted 2025-06-21)_
@@ -172,7 +176,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
 
 * **[Senior Full-Stack Engineer](https://job-boards.greenhouse.io/mercury/jobs/5493086004)** — _n/a_ _(posted 2025-04-26)_
-* **[Software Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/5267749004)** — ¤140,800 – ¤158,400 USD _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
@@ -329,4 +332,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Sr. Software Engineer ](https://jobs.ashbyhq.com/wisp/e02db880-6061-4e3a-bfae-127acd1094d6)** — ¤150,000 – ¤175,000 USD _(posted 2025-07-12)_
 
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
