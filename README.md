@@ -24,6 +24,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Fullstack Engineer](https://job-boards.greenhouse.io/agilesix/jobs/6648314003)** — _n/a_ _(posted 2025-07-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
+
+* **[Senior Software Engineer II](https://jobs.lever.co/aledade/edc8a276-b206-4a6e-a747-b0bc7272c144)** — _n/a_ _(posted 2025-07-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
 
 * **[Senior Full Stack Engineer, Eligibility and Compatibility](https://job-boards.greenhouse.io/alma/jobs/8027192002)** — _n/a_ _(posted 2025-06-06)_
@@ -76,10 +80,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
 * **[Staff Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Staff-Software-Engineer_JR10573)** — _n/a_ _(posted 2025-07-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z4rpdq4v1e2jxol3kwhq.webp" width="24" height="24" alt="Character.AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Character.AI](https://jobo.world/company/Character)
-
-* **[Software Engineer, Growth](https://jobs.ashbyhq.com/character/60d095ee-aaaf-4ac1-b624-2c7388c331c6)** — ¤150,000 – ¤300,000 USD _(posted 2025-05-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yamvkbjbwaijbnwtithj.webp" width="24" height="24" alt="ClassDojo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ClassDojo](https://jobo.world/company/ClassDojo)
 
@@ -232,12 +232,12 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
-* **[AI Automation Engineer (Remote)](https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5)** — _n/a_ _(posted 2025-06-11)_
 * **[Staff Full Stack Software Engineer - Core Product, Poe (Remote)](https://jobs.ashbyhq.com/quora/2044e81f-570d-4501-8bba-05dc464dd224)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior Full Stack Software Engineer - Core Product, Poe (Remote)](https://jobs.ashbyhq.com/quora/58d4ca1a-92c1-4b7c-884d-3fe916492f0e)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
+* **[Senior Software Engineer](https://jobs.ashbyhq.com/radai/9f9175f0-8f42-484e-bbad-fec74926d151)** — ¤145,000 – ¤190,000 USD _(posted 2025-07-19)_
 * **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
 * **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
 
@@ -261,9 +261,9 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Staff Software Engineer - Patient Experience (Remote)](https://jobs.ashbyhq.com/rula/23e87121-91e8-4bc0-9259-6a5e347e070f)** — ¤187,000 – ¤220,000 USD _(posted 2025-06-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/inlci0wzrhiduro5qdsv.webp" width="24" height="24" alt="Scout Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Scout Motors](https://jobo.world/company/Scout-Motors)
 
-* **[Software Engineer - AI Products](https://jobs.ashbyhq.com/sardine/f1d28d19-16d4-44af-85dd-3a5277a09375)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
+* **[Software Engineer II (Full Stack)](https://job-boards.greenhouse.io/scoutmotors/jobs/4775617007)** — _n/a_ _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
@@ -332,4 +332,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Fullstack Engineer, Styles](https://job-boards.greenhouse.io/webflow/jobs/7083112)** — ¤132,050 – ¤235,600 USD _(posted 2025-07-18)_
 
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_
