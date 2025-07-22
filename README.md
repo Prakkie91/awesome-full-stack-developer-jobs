@@ -24,10 +24,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Fullstack Engineer](https://job-boards.greenhouse.io/agilesix/jobs/6648314003)** — _n/a_ _(posted 2025-07-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
-
-* **[Senior Software Engineer II](https://jobs.lever.co/aledade/edc8a276-b206-4a6e-a747-b0bc7272c144)** — _n/a_ _(posted 2025-07-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
 
 * **[Senior Full Stack Engineer, Eligibility and Compatibility](https://job-boards.greenhouse.io/alma/jobs/8027192002)** — _n/a_ _(posted 2025-06-06)_
@@ -131,6 +127,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Senior Full Stack Engineer, Payments](https://jobs.lever.co/goodleap/ba471944-f43d-4f5f-a153-02b854d732fd)** — _n/a_ _(posted 2025-04-03)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
+
+* **[Sr Full Stack Software Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Sr-Full-Stack-Software-Engineer_R-379942)** — _n/a_ _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ge2f5hjg8dibx2tbytmy.webp" width="24" height="24" alt="Invert logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Invert](https://jobo.world/company/Invert)
 
@@ -332,4 +332,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Fullstack Engineer, Styles](https://job-boards.greenhouse.io/webflow/jobs/7083112)** — ¤132,050 – ¤235,600 USD _(posted 2025-07-18)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_
