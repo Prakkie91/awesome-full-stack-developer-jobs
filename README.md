@@ -177,6 +177,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Software Engineer (Full-stack)](https://job-boards.greenhouse.io/modernhealth/jobs/8071782002)** — _n/a_ _(posted 2025-07-11)_
 * **[Staff Software Engineer (Full-Stack with Front-End Focus)](https://job-boards.greenhouse.io/modernhealth/jobs/7277020002)** — _n/a_ _(posted 2025-05-08)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/icyvoy1xdkv6ptazxcqz.webp" width="24" height="24" alt="Motley Fool logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motley Fool](https://jobo.world/company/Motley-Fool)
+
+* **[Senior Fullstack Developer - React/Python](https://job-boards.greenhouse.io/themotleyfool/jobs/4724679007)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
 * **[Full Stack Developer, AI and LLM](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Full-Stack-Developer--AI-and-LLM_JR1997990)** — _n/a_ _(posted 2025-05-23)_
@@ -184,6 +188,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcxvyg0udy2sdtvqajhr.webp" width="24" height="24" alt="OneSignal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OneSignal](https://jobo.world/company/OneSignal)
 
 * **[Staff Software Engineer, Fullstack](https://boards.greenhouse.io/onesignal/jobs/4434724006)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
+
+* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — ¤200,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
 
@@ -231,7 +239,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/radai/9f9175f0-8f42-484e-bbad-fec74926d151)** — ¤145,000 – ¤190,000 USD _(posted 2025-07-19)_
 * **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
 * **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
 * **[Senior Software Engineer, Full Stack](https://jobs.ashbyhq.com/radai/7718ad4e-aace-40a7-b36a-58be04428a37)** — ¤145,000 – ¤190,000 USD _(posted 2025-03-12)_
@@ -307,7 +314,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Fullstack Senior Software Engineer, Test Experience](https://jobs.ashbyhq.com/vanta/295fdbe4-a6cf-4f93-a170-555c8b77f352)** — ¤179,000 – ¤211,000 USD _(posted 2025-07-09)_
 * **[Senior Fullstack Software Engineer, Product Platform](https://jobs.ashbyhq.com/vanta/c41fd6d7-5a30-4176-af53-db56f2c305c2)** — ¤207,000 – ¤244,000 USD _(posted 2025-07-04)_
 * **[Senior Fullstack Software Engineer, Self Serve](https://jobs.ashbyhq.com/vanta/ad10bda4-f02d-4682-9dc4-b374fa647c99)** — ¤179,000 – ¤211,000 USD _(posted 2025-06-05)_
-* **[Fullstack Software Engineer, Self Serve](https://jobs.ashbyhq.com/vanta/6540adde-721e-4911-ba09-18936348a07a)** — ¤161,000 – ¤189,000 USD _(posted 2025-05-02)_
 * **[Senior Software Engineer, Fullstack - GRC](https://jobs.ashbyhq.com/vanta/1513e1ac-5dca-4acb-a99d-8b5461115651)** — ¤175,000 – ¤240,000 USD _(posted 2025-03-14)_
 * **[Senior Fullstack Engineer, VRM](https://jobs.ashbyhq.com/vanta/26e700b6-0e72-4e50-897e-d69137ad6439)** — _n/a_ _(posted 2025-03-13)_
 
@@ -320,4 +326,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Fullstack Engineer, Styles](https://job-boards.greenhouse.io/webflow/jobs/7083112)** — ¤132,050 – ¤235,600 USD _(posted 2025-07-18)_
 
 ---
-_Updated automatically — 2025-07-23_
+_Updated automatically — 2025-07-24_
