@@ -31,10 +31,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior Full Stack Engineer, Eligibility and Compatibility](https://job-boards.greenhouse.io/alma/jobs/8027192002)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nynfgxku2h5oy29qrpd4.webp" width="24" height="24" alt="Ampere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ampere](https://jobo.world/company/Ampere)
-
-* **[Senior Software Engineer - Full Stack](https://jobs.ashbyhq.com/amper/0764e220-9af6-402f-8ebf-ce6ffdd296bf)** — _n/a_ _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gs61rxdb5anhhiq0hy2b.webp" width="24" height="24" alt="AuditBoard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AuditBoard](https://jobo.world/company/AuditBoard)
 
 * **[Senior Software Engineer, Full Stack (Remote)](https://jobs.ashbyhq.com/auditboard/924cb617-df64-4a3d-ad77-59dc26fe255d)** — ¤128,000 – ¤192,000 USD _(posted 2025-07-24)_
@@ -302,6 +298,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Software Engineer, Fullstack - GRC](https://jobs.ashbyhq.com/vanta/1513e1ac-5dca-4acb-a99d-8b5461115651)** — ¤175,000 – ¤240,000 USD _(posted 2025-03-14)_
 * **[Senior Fullstack Engineer, VRM](https://jobs.ashbyhq.com/vanta/26e700b6-0e72-4e50-897e-d69137ad6439)** — _n/a_ _(posted 2025-03-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ptuq8bmeadcras6mz8tu.webp" width="24" height="24" alt="Verinext logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verinext](https://jobo.world/company/Verinext)
+
+* **[Full Stack .NET Developer](https://apply.workable.com/verinext/j/A42D7854C9/)** — _n/a_ _(posted 2025-06-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sgzp0kt62gcb13pzrvge.webp" width="24" height="24" alt="Vouched logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vouched](https://jobo.world/company/Vouched)
 
 * **[Full Stack Engineer](https://apply.workable.com/vouched/j/F0C5DAF359/)** — ¤150 – ¤150 USD _(posted 2025-04-23)_
@@ -311,4 +311,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Fullstack Engineer, Styles](https://job-boards.greenhouse.io/webflow/jobs/7083112)** — ¤132,050 – ¤235,600 USD _(posted 2025-07-18)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
