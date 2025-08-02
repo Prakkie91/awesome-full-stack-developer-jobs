@@ -50,7 +50,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Full Stack Engineer, Monetization](https://job-boards.greenhouse.io/calendly/jobs/8025134002)** — _n/a_ _(posted 2025-06-06)_
 * **[Staff Full Stack Engineer, Platform Services](https://job-boards.greenhouse.io/calendly/jobs/8013433002)** — _n/a_ _(posted 2025-05-28)_
 * **[Staff Full Stack Engineer (Backend Focused)](https://boards.greenhouse.io/calendly/jobs/7970684002)** — _n/a_ _(posted 2025-04-24)_
-* **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
@@ -73,6 +72,7 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Full-Stack Growth Engineer ](https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03)** — _n/a_ _(posted 2025-03-12)_
 * **[Full-Stack Engineer (Back-End Leaning - Core)](https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192)** — _n/a_ _(posted 2025-03-12)_
+* **[Full-Stack Engineer (Front-End Leaning)](https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
@@ -94,7 +94,6 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
 * **[Sr Full Stack Software Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Sr-Full-Stack-Software-Engineer_R-379942)** — _n/a_ _(posted 2025-07-18)_
-* **[Lead Full Stack Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead-Full-Stack-Engineer_R-371063)** — _n/a_ _(posted 2025-04-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
@@ -279,6 +278,10 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 
 * **[Senior Software Engineer, Full Stack](https://jobs.ashbyhq.com/tapcart/aa63ad92-e977-43ce-9836-797df0c543be)** — ¤175,000 – ¤185,000 USD _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahsjqugyjx4tcjp1ao6j.webp" width="24" height="24" alt="Teachable logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Teachable](https://jobo.world/company/Teachable)
+
+* **[Software Engineer II (L3)](https://job-boards.greenhouse.io/teachablecareers/jobs/4602706101)** — _n/a_ _(posted 2025-06-06)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfkrdgixrm2elf7w9po8.webp" width="24" height="24" alt="thatgamecompany logo" style="vertical-align:middle"/>&nbsp;&nbsp;[thatgamecompany](https://jobo.world/company/Thatgamecompany)
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/thatgamecompany/85301a13-4771-4151-ae20-92e3987faa0f)** — _n/a_ _(posted 2025-05-02)_
@@ -311,4 +314,4 @@ Browse a wide range of remote Full-Stack Developer positions available globally.
 * **[Senior Fullstack Engineer, Styles](https://job-boards.greenhouse.io/webflow/jobs/7083112)** — ¤132,050 – ¤235,600 USD _(posted 2025-07-18)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
